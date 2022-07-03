@@ -8,5 +8,5 @@
 6. If you are a `Code reviewer` you should never merge a branch before `status checks` complete or fails.
 7. You should always follow `Industry Standards` and `Best Practices` when implementing a feature or writing a code.
 8. To maintain the Perfomance of the and User expirience the following Frameworks are `disallowed`.
-    + ReactNative
+    + `ReactNative`
 9. To prevent `dereliction` of a project due to lack of `resource`, a project funding a `new Language` or a `Framwork` should atleast have `two` capable resources before starting.
