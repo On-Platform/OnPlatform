@@ -15,3 +15,5 @@ Fellow developers, to insure OnPlatform's maintainerbility and product quality w
 
 ## UIUX Guideline
 Standard
+
+## Application Security Guideline
