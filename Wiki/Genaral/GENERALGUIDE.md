@@ -7,3 +7,4 @@
 4. Be generous and get used to view `daily updates` and `notification` regarding the On-Platform and `update accodingly`.
 5. If you are unable to contribute for a significant period of time, be responsible enough to `update the team`.
 6. Sole purpose of this Open Project is to let everyone `experience` what they want, which they can't experience alone due to various reasons. And to build up their `Portfolio` by `contributing` in this project in the areas which they like to. But sometimes you may have to `compromise` just make sure that the project flow won't get stuck, making sure that you be `responsible` and play your part accodingly for the time being.
+7. A `pull request` should be at least `reviewed` by one other before `merged`.
