@@ -1,3 +1,4 @@
+
 ## Quality Engineers's Guide
 
 1. Make decisions about test-related activities to follow based on the nature of the application.

@@ -13,7 +13,7 @@ Fellow developers, to insure OnPlatform's maintainability and product quality we
 
 ## QA Guideline
 
-Fellow quality engineers, to insure OnPlatform's maintainability and product quality we must follow certain guidelines and best practices. Visit this thread and take a loot at them before start your contribution:[QA Guideline](https://github.com/On-Platform/OnPlatform/blob/master/Wiki/Genaral/QAGUIDE.md)
+Fellow quality engineers, to insure OnPlatform's maintainability and product quality we must follow certain guidelines and best practices. Visit this thread and take a loot at them before start your contribution: [QA Guideline](https://github.com/On-Platform/OnPlatform/blob/master/Wiki/Genaral/QAGUIDE.md)
 
 ## UIUX Guideline
 Standard
