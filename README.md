@@ -9,9 +9,11 @@ Welcome to `OnPlatform`. As a contributor please take a look at the [General Gui
 
 ## Developer Guideline
 
-Fellow developers, to insure OnPlatform's maintainerbility and product quality we must follow certain guideline and best practices. Visit this thread and take a loot at them before start your contribution: [Developer Guideline](https://github.com/On-Platform/OnPlatform/blob/master/Wiki/Genaral/DEVELOPERGUIDE.md)
+Fellow developers, to insure OnPlatform's maintainability and product quality we must follow certain guidelines and best practices. Visit this thread and take a loot at them before start your contribution: [Developer Guideline](https://github.com/On-Platform/OnPlatform/blob/master/Wiki/Genaral/DEVELOPERGUIDE.md)
 
 ## QA Guideline
+
+Fellow quality engineers, to insure OnPlatform's maintainability and product quality we must follow certain guidelines and best practices. Visit this thread and take a loot at them before start your contribution:[QA Guideline](https://github.com/On-Platform/OnPlatform/blob/master/Wiki/Genaral/QAGUIDE.md)
 
 ## UIUX Guideline
 Standard
