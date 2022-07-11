@@ -16,4 +16,5 @@
 5. selenium - https://www.selenium.dev/downloads/
 6. IntelliJ - https://www.jetbrains.com/idea/download/
 
+## API Testing Guide ##
 
